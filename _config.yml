@@ -47,8 +47,8 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google:  # fill in your Google verification code
-  bing: # fill in your Bing verification code
+  google: TJMu_BUabuSZiA5IKVWE3yfKBP4xyW-7TIEZuoEPF3Q # fill in your Google verification code
+  bing: C64D48D887F437A31A6AD8F053813689 # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
   baidu: # fill in your Baidu verification code
@@ -59,8 +59,8 @@ webmaster_verifications:
 
 # Web Analytics Settings
 analytics:
-  google:
-    id: 
+  google: 
+    id: G-V8JNX1DMVE
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
