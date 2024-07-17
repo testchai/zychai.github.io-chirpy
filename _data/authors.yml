@@ -1,0 +1,18 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+柴作雨:
+  name: 柴作雨
+  twitter: cotes2020
+  url: https://github.com/zychai
+
+陈北一: 
+  name: 陈北一
+  twitter: dinesh_MKD
+  url: 'https://www.zhihu.com/people/zy_chai'
+
