@@ -4,6 +4,7 @@ date:       2023-04-25
 categories: [Mathematics, Integration]
 tag: [special function, integration]
 math: true
+authors: [Huanyu Shi]
 ---
 ## Question:
 Try to solve the following integral:

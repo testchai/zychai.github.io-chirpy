@@ -3,6 +3,7 @@ title:      "&sect;1 Python: Introduction and Study Resources"
 date:       2024-04-05
 categories: [Python]
 tag: [Python]
+authors: [Huanyu Shi]
 media_subpath : /assets/img/in-post/python-notes/
 image: 
     path: python.jpg

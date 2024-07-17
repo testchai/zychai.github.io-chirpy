@@ -4,6 +4,7 @@ date:       2024-01-08
 categories: [Mathematics, Notes]
 tag: [group theory]
 media_subpath : /assets/img/in-post/2024/2024-01-08/
+authors: [Huanyu Shi]
 ---
 
 > 期末考试前的复习草稿，写的比较随意，有时间考虑再整理成电子版（随时会鸽）。

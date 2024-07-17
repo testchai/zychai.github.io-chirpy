@@ -5,6 +5,7 @@ categories: [Condensed Matter Physics, Quantum Many-Particle Theory]
 tag: [condensed matter physics, many-particle physics]
 media_subpath : /assets/img/in-post/many-particle-physics/
 math: true
+authors: [Huanyu Shi]
 ---
 Preceding posts defined the single-particle Green's function and exhibited its relation to observable properties. However, we still do not know how to calculate $G$ for nontrivial physical system. As our general method of attack, we shall evaluate the Green's function with perturbation theory. This procedure is most easily carried out in the interaction picture, where the various terms can be enumerated with a theorem of Wick. We will derive **Wick's theorem** in this post which is very useful with Feynman diagram in **perturbation theory**.
 

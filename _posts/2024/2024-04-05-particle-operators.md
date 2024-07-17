@@ -4,6 +4,7 @@ date:       2024-04-05
 categories: [Condensed Matter Physics, Quantum Many-Particle Theory]
 tag: [condensed matter physics, many-particle physics]
 math: true
+authors: [Huanyu Shi]
 ---
 In the previous post, we have obtained the expression for the field operators,
 

@@ -5,6 +5,7 @@ categories: [Condensed Matter Physics, Quantum Many-Particle Theory]
 tag: [condensed matter physics, many-particle physics]
 media_subpath : /assets/img/in-post/many-particle-physics/
 math: true
+authors: [Huanyu Shi]
 ---
 
 Our theory of many-particle systems at zero temperature made extensive use of the single-particle Green's function, which was expressed as a perturbation expansion in the interaction picture. Knowledge of $G$ provided both the complete equilibrium properties of the system and the excitation energies of the system containing one more or one less particle (Lehmann representation). At finite temperatures, however, we can not directly calculate $G$ from the same diagrammatic analysis before. It is therefore necessary to introduce another new Green's function, i.e. **Matsubara Green's Function**.

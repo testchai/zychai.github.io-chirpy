@@ -5,6 +5,7 @@ categories: [Python]
 tag: [Python]
 media_subpath : /assets/img/in-post/python-notes/
 math: true
+authors: [Huanyu Shi]
 image:
     path: numpy.png
     lqip: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAICAYAAADwdn+XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD1SURBVChTvY6/K4VhGIbv+3WcOjHoWJQzHAZJspwyGFhkOWHyRZ3Zf2B+N8nAH2C1yKR8szIYcJKTxWL4bMonJD+/5/YefaNkkGt7rq7n6cGfUd8565/dPV+CxFz9CsJ7Vx+Yb6ALFUq3IIeh4uZ+NJrkzY9wwV8UX57fj1HGqqqYYIdugu/BiXsV7F7gYXAlZq7XUWkGNMJaImZxvFZruvYVQaYUHk9MzfQAUwLqUkA1LE0zYxSayQ9wMNSP4tu2k1v8+iAIzq20hoy27kZwZyVdiYU4jsaa7eA7asunnZVu69vbGL/OFTDlDwozW0flfPwvgE+Z2VwwKjTetQAAAABJRU5ErkJggg==

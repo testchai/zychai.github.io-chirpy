@@ -5,6 +5,7 @@ categories: [Condensed Matter Physics, Quantum Many-Particle Theory]
 tag: [condensed matter physics, many-particle physics]
 media_subpath : /assets/img/in-post/many-particle-physics/
 math: true
+authors: [Huanyu Shi]
 ---
 
 In this post, we discuss more analytic properties of single-particle Green's functions. Moreover, we will derive the **Lehmann representation** of single-particle Green's functions (and **retarded** and **advanced** Green's function) in detail. Although our final expressions are *formally* applicable to both bosons and fermions, the existence of Bose condensation at $T=0$ introduces additional complications, and we shall consider only fermions in next posts. 

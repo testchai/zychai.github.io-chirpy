@@ -6,6 +6,7 @@ tag: [abstract algebra, group theory]
 media_subpath : /assets/img/in-post/2024/2024-04-25/
 render_with_liquid: false
 math: true
+authors: [Huanyu Shi]
 description: My group theory notes while studying abstract algebra. Group theory studies the algebraic structures known as groups, key concepts include group operations, homomorphisms, isomorphisms, subgroups, quotient groups, and group actions.
 ---
 

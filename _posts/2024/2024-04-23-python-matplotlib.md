@@ -5,6 +5,7 @@ categories: [Python]
 tag: [Python]
 media_subpath : /assets/img/in-post/python-notes/
 math: true
+authors: [Huanyu Shi]
 image:
     path: matplotlib.png
     lqip: matplotlib.png

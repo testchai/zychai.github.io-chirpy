@@ -6,6 +6,7 @@ tag: [condensed matter physics, many-particle physics]
 media_subpath : /assets/img/in-post/many-particle-physics/
 render_with_liquid: false
 math: true
+authors: [Huanyu Shi]
 ---
 
 We have got the expression of the exact Green's function in the interaction picture:

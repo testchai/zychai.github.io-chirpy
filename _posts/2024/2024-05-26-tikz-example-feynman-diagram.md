@@ -7,6 +7,7 @@ media_subpath: /assets/img/in-post/feynman-diagram/
 description: A gallery of TikZ examples featuring numerous Feynman diagrams with TikZ codes for quantum field theory and condensed matter field theory.
 published: false
 math: true
+authors: [Huanyu Shi]
 ---
 
 ## 1. $e^{-}e^{+}\to \gamma\gamma$

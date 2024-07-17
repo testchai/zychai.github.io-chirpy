@@ -4,6 +4,7 @@ date:       2024-04-01
 categories: [Condensed Matter Physics, Quantum Many-Particle Theory]
 tag: [condensed matter physics, many-particle physics]
 math: true
+authors: [Huanyu Shi]
 ---
 ## 1. Introduction
 First quantization in physics is the process of converting a classical system into a quantum system by assigning a wave function to each particle, which describes its behavior at the quantum level. This wave function is determined by solving the Schr&ouml;dinger equation. But for N-body system, if we construct the N-body wave function, it is impractical to find a direct solution of the Schr&ouml;dinger equation. So we must explore other techniques, we shall rely on **second quantization**, **quantum field theory**, and the use of **Green's functions**. 

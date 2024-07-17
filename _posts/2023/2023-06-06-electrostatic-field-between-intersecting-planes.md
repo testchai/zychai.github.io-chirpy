@@ -5,6 +5,7 @@ categories: [Physics Musings]
 tag: [electrodynamics]
 media_subpath : /assets/img/in-post/2023/2023-06-06/
 math: true
+authors: [Huanyu Shi]
 ---
 Consider two infinite grounded metal planes with an angle $\alpha$ between them, as shown in the following figure. A point charge $Q$ is located at $(r_0,\phi_0,0)$ in cylindrical coordinates, where $0< \phi_0 <\alpha$. Determine the electric potential in angle domain.
 

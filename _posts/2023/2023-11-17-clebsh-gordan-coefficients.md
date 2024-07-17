@@ -4,6 +4,7 @@ date:       2023-11-17
 categories: [Quantum Mechanics]
 tag: [quantum mechanics]
 math: true
+authors: [Huanyu Shi]
 ---
 ## 1. Introduction
 The addition of angular momenta is a fundamental problem in modern physics. For instance, when dealing with systems composed of multiple particles, such as atoms with multiple electrons, the total angular momentum of system is crucial. Specifically, we often inquire about how to add the orbital angular momentum and intrinsic spin momentum of an electron.
