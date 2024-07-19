@@ -79,7 +79,10 @@ $$\min Z\left[X_1+step^**\left(X_1\right.^*-X_1\right)],step\in(0,1]$$
 
 步骤 5：结束条件。如果
 
-$$ \frac{\sqrt{\sum*a{\left( x*{a}^{n+1}-x*{a}^{n} \right) ^2}}}{\sum_a{x*{a}^{n}}}\leqslant \boldsymbol{\epsilon } $$
+$$
+\frac{\sqrt{\sum_a{\left( x_{a}^{n+1}-x_{a}^{n} \right) ^2}}}{\sum_a{x_{a}^{n}}}\leqslant \boldsymbol{\varepsilon }
+$$
+
 
 ，则算法结束；否则 n=n+1，转至步骤 2。此处的  𝜀  表示误差阈值，在代码部分用 max_err 表示。
 
@@ -146,7 +149,7 @@ def draw_network(G):
 
 构建交通网络后，我们来看一看这个 SiouxFalls 网络长什么样子吧
 
-![image.png](https://raw.githubusercontent.com/zychai/ImageBed/main/20240711031334.png){:whith="600"}
+![image.png](https://imagebed-1318159323.cos.ap-nanjing.myqcloud.com/20240711031334.png){:whith="600"}
 _交通网络图_
 
 ### 3.4 定义 BPR 函数
