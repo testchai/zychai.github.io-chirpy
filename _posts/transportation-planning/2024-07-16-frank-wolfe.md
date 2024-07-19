@@ -146,7 +146,7 @@ def draw_network(G):
 
 构建交通网络后，我们来看一看这个 SiouxFalls 网络长什么样子吧
 
-![image.png](https://demo-1318159323.cos.na-siliconvalley.myqcloud.com/20240711031334.png){:whith="600"}
+![image.png](https://raw.githubusercontent.com/zychai/ImageBed/main/20240711031334.png){:whith="600"}
 _交通网络图_
 
 ### 3.4 定义 BPR 函数
