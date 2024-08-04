@@ -7,9 +7,6 @@ math: true # 启用数学
 pin: false # 置顶
 authors: [Zuoyu Chai]
 ---
-> &#x1F447; 在此下载本文对应的 Python 和 csv 文件 
-> - **[frank-wolfe-UE](https://github.com/zychai/frank-wolfe-UE)**
-{: .prompt-info}
 
 ## 一、用户均衡模型简略介绍
 
