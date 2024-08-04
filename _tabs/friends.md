@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-user-friends
-order: 4
+order: 5
 ---
 
 <div class="box-info" markdown="1">
